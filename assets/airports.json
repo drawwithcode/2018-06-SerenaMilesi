@@ -1,0 +1,36 @@
+{
+  "number" : 3,
+  "airports" : [
+
+    {
+      "name" : "Edinburgh",
+      "year" : 2017,
+      "passengers" : 13410343,
+      "color": "#4777B2",
+      "code":"EDI",
+      "elevation":"41m above sea level",
+      "country" : "UK"
+    },
+
+    {
+    "name" : "Glasgow",
+    "year" : 2017,
+    "passengers" : 9897959,
+    "color": "#3D6698",
+    "code":"GLA",
+    "elevation":"8m above sea level",
+    "country" : "UK"
+    },
+
+    {
+    "name" : "Aberdeen",
+    "year" : 2017,
+    "passengers" : 3090642,
+    "color": "#33557F",
+    "code":"ABZ",
+    "elevation":"66m above sea level",
+    "country" : "UK"
+    }
+
+  ]
+}
